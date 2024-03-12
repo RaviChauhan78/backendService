@@ -1,0 +1,14 @@
+{
+  "email_empty": "Enter email address",
+  "mobile_empty": "Mobile number is required",
+  "invalid_email_format": "Invalid email format",
+  "name_empty": " Name is required",
+  "empty_password": "Enter password",
+  "password_length_6": "Password must be minimum 6 character long",
+  "email_already_exist": "Email Id already registered",
+  "mobile_already_exist": "Mobile number already registered",
+  "registration_success": "Registration done successfully",
+  "something_went_wrong": "Something went wrong",
+  "common_messages_record_available": "Records are available", 
+  "common_messages_record_not_available": "Records are not available"
+}
